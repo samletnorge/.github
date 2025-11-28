@@ -1,6 +1,6 @@
 ## Hi there 👋 welcome to Samletnorge
 
-🙋‍♀️ Bringing the future closer. We work making life easier for people with novel ideas. 
+🙋‍♀️ Bringing the future closer. We work making with life easier for people with novel ideas. 
 
 🌈 Contribution guidelines - we are open to forks and pr contributions. feel free
 
